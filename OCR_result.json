@@ -1,0 +1,810 @@
+[
+  {
+    "start": 0, 
+    "end": 19.386033333333334, 
+    "ocr_result": [
+      {
+        "text": " Wharton | ee eA", 
+        "location": [
+          230, 
+          185, 
+          1166, 
+          331
+        ], 
+        "block_num": 0
+      }, 
+      {
+        "text": "", 
+        "location": [
+          1670, 
+          236, 
+          193, 
+          188
+        ], 
+        "block_num": 1
+      }, 
+      {
+        "text": "", 
+        "location": [
+          1354, 
+          237, 
+          344, 
+          192
+        ], 
+        "block_num": 2
+      }, 
+      {
+        "text": "", 
+        "location": [
+          1852, 
+          241, 
+          146, 
+          181
+        ], 
+        "block_num": 3
+      }, 
+      {
+        "text": "", 
+        "location": [
+          2003, 
+          241, 
+          134, 
+          182
+        ], 
+        "block_num": 4
+      }, 
+      {
+        "text": " ", 
+        "location": [
+          0, 
+          557, 
+          2880, 
+          55
+        ], 
+        "block_num": 5
+      }, 
+      {
+        "text": " ", 
+        "location": [
+          0, 
+          613, 
+          2880, 
+          613
+        ], 
+        "block_num": 6
+      }
+    ], 
+    "shot_id": 0
+  }, 
+  {
+    "start": 19.386033333333334, 
+    "end": 29.06236666666667, 
+    "ocr_result": [
+      {
+        "text": " ", 
+        "location": [
+          0, 
+          0, 
+          2880, 
+          1410
+        ], 
+        "block_num": 0
+      }
+    ], 
+    "shot_id": 1
+  }, 
+  {
+    "start": 29.06236666666667, 
+    "end": 38.7387, 
+    "ocr_result": [
+      {
+        "text": " ae h6UClC( i;\u00e9<\u2018i<i\u2018<\u2018<i<i\u2018<\u2018~z | i ef eal ae eh ", 
+        "location": [
+          0, 
+          0, 
+          2880, 
+          1410
+        ], 
+        "block_num": 0
+      }
+    ], 
+    "shot_id": 2
+  }, 
+  {
+    "start": 38.7387, 
+    "end": 48.415033333333334, 
+    "ocr_result": [
+      {
+        "text": "[TITLE] ", 
+        "location": [
+          0, 
+          0, 
+          2880, 
+          6
+        ], 
+        "block_num": 0
+      }, 
+      {
+        "text": " Definition of Accounting", 
+        "location": [
+          76, 
+          39, 
+          2449, 
+          98
+        ], 
+        "block_num": 1
+      }, 
+      {
+        "text": " * Accounting is a system for recording information about business transactions to provide summary statements of a company's financial position and performance to users who require such information", 
+        "location": [
+          124, 
+          168, 
+          2389, 
+          242
+        ], 
+        "block_num": 2
+      }
+    ], 
+    "shot_id": 3
+  }, 
+  {
+    "start": 48.415033333333334, 
+    "end": 67.7677, 
+    "ocr_result": [
+      {
+        "text": " ", 
+        "location": [
+          197, 
+          45, 
+          1958, 
+          1291
+        ], 
+        "block_num": 0
+      }
+    ], 
+    "shot_id": 4
+  }, 
+  {
+    "start": 67.7677, 
+    "end": 154.8547, 
+    "ocr_result": [
+      {
+        "text": "[TITLE] ", 
+        "location": [
+          0, 
+          0, 
+          2880, 
+          6
+        ], 
+        "block_num": 0
+      }, 
+      {
+        "text": " Definition of Accounting", 
+        "location": [
+          76, 
+          34, 
+          2461, 
+          104
+        ], 
+        "block_num": 1
+      }, 
+      {
+        "text": " * Accounting is a system for recording information about business transactions to provide summary statements of a company's financial position and performance to users who require such information", 
+        "location": [
+          119, 
+          168, 
+          2396, 
+          242
+        ], 
+        "block_num": 2
+      }, 
+      {
+        "text": " : Three sets of books", 
+        "location": [
+          148, 
+          485, 
+          733, 
+          73
+        ], 
+        "block_num": 3
+      }, 
+      {
+        "text": " = Financial accounting * Standardized reports for external stakeholders", 
+        "location": [
+          163, 
+          572, 
+          1339, 
+          145
+        ], 
+        "block_num": 4
+      }, 
+      {
+        "text": " Tax accounting", 
+        "location": [
+          250, 
+          721, 
+          440, 
+          61
+        ], 
+        "block_num": 5
+      }, 
+      {
+        "text": "", 
+        "location": [
+          222, 
+          743, 
+          37, 
+          13
+        ], 
+        "block_num": 6
+      }, 
+      {
+        "text": " IRS rules for computing taxes payable", 
+        "location": [
+          298, 
+          791, 
+          979, 
+          62
+        ], 
+        "block_num": 7
+      }, 
+      {
+        "text": " \u2014 Managerial accounting : Custom reports for internal decision making", 
+        "location": [
+          165, 
+          857, 
+          1279, 
+          151
+        ], 
+        "block_num": 8
+      }
+    ], 
+    "shot_id": 5
+  }, 
+  {
+    "start": 154.8547, 
+    "end": 164.53103333333337, 
+    "ocr_result": [
+      {
+        "text": "[TITLE] ", 
+        "location": [
+          0, 
+          0, 
+          2880, 
+          6
+        ], 
+        "block_num": 0
+      }, 
+      {
+        "text": " Definition of Accounting", 
+        "location": [
+          76, 
+          34, 
+          2450, 
+          104
+        ], 
+        "block_num": 1
+      }, 
+      {
+        "text": " * Accounting is a system for recording information about business transactions to provide summary statements of a company\u2019s financial position and performance to users who require such information", 
+        "location": [
+          124, 
+          168, 
+          2390, 
+          242
+        ], 
+        "block_num": 2
+      }, 
+      {
+        "text": " Three sets of books", 
+        "location": [
+          195, 
+          485, 
+          679, 
+          74
+        ], 
+        "block_num": 3
+      }, 
+      {
+        "text": "", 
+        "location": [
+          177, 
+          507, 
+          25, 
+          26
+        ], 
+        "block_num": 4
+      }, 
+      {
+        "text": " = Financial accounting", 
+        "location": [
+          191, 
+          576, 
+          656, 
+          62
+        ], 
+        "block_num": 5
+      }, 
+      {
+        "text": " * Standardized reports for external stakeholders", 
+        "location": [
+          289, 
+          646, 
+          1195, 
+          61
+        ], 
+        "block_num": 6
+      }, 
+      {
+        "text": " Tax accounting", 
+        "location": [
+          250, 
+          721, 
+          439, 
+          61
+        ], 
+        "block_num": 7
+      }, 
+      {
+        "text": "", 
+        "location": [
+          217, 
+          743, 
+          43, 
+          13
+        ], 
+        "block_num": 8
+      }, 
+      {
+        "text": " IRS rules for computing taxes payable", 
+        "location": [
+          298, 
+          791, 
+          979, 
+          62
+        ], 
+        "block_num": 9
+      }, 
+      {
+        "text": " \u2014 Managerial accounting : Custom reports for internal decision making", 
+        "location": [
+          165, 
+          857, 
+          1279, 
+          151
+        ], 
+        "block_num": 10
+      }
+    ], 
+    "shot_id": 6
+  }, 
+  {
+    "start": 164.53103333333337, 
+    "end": 212.9127, 
+    "ocr_result": [
+      {
+        "text": "[TITLE] ", 
+        "location": [
+          0, 
+          0, 
+          2880, 
+          6
+        ], 
+        "block_num": 0
+      }, 
+      {
+        "text": " What are the financial reporting requirements?", 
+        "location": [
+          76, 
+          34, 
+          2450, 
+          104
+        ], 
+        "block_num": 1
+      }, 
+      {
+        "text": " \u00ab The Securities and Exchange Commission (SEC) requires periodic financial statement filings:", 
+        "location": [
+          129, 
+          161, 
+          2275, 
+          169
+        ], 
+        "block_num": 2
+      }, 
+      {
+        "text": " \u2014 10\u2014K: Annual report", 
+        "location": [
+          196, 
+          325, 
+          661, 
+          73
+        ], 
+        "block_num": 3
+      }, 
+      {
+        "text": " - 10-0: Quarterly report", 
+        "location": [
+          193, 
+          406, 
+          734, 
+          61
+        ], 
+        "block_num": 4
+      }, 
+      {
+        "text": " - &8-K: Current report (material events)", 
+        "location": [
+          176, 
+          481, 
+          1135, 
+          62
+        ], 
+        "block_num": 5
+      }
+    ], 
+    "shot_id": 7
+  }, 
+  {
+    "start": 212.9127, 
+    "end": 222.58903333333333, 
+    "ocr_result": [
+      {
+        "text": "[TITLE] ", 
+        "location": [
+          0, 
+          0, 
+          2880, 
+          6
+        ], 
+        "block_num": 0
+      }, 
+      {
+        "text": " What are the financial reporting requirements?", 
+        "location": [
+          76, 
+          34, 
+          2450, 
+          104
+        ], 
+        "block_num": 1
+      }, 
+      {
+        "text": " \u00ab The Securities and Exchange Commission (SEC) requires periodic financial statement filings:", 
+        "location": [
+          129, 
+          161, 
+          2275, 
+          169
+        ], 
+        "block_num": 2
+      }, 
+      {
+        "text": " \u2014 10\u2014K: Annual report", 
+        "location": [
+          196, 
+          325, 
+          661, 
+          73
+        ], 
+        "block_num": 3
+      }, 
+      {
+        "text": " - 10-0: Quarterly report", 
+        "location": [
+          193, 
+          406, 
+          734, 
+          61
+        ], 
+        "block_num": 4
+      }, 
+      {
+        "text": " - 8-K: Current report (material events)", 
+        "location": [
+          176, 
+          481, 
+          1135, 
+          62
+        ], 
+        "block_num": 5
+      }, 
+      {
+        "text": " \u2014 Must be prepared in accordance with Generally Accepted Accounting Principles (GAAP)", 
+        "location": [
+          121, 
+          548, 
+          2341, 
+          140
+        ], 
+        "block_num": 6
+      }
+    ], 
+    "shot_id": 8
+  }, 
+  {
+    "start": 222.58903333333333, 
+    "end": 270.9707, 
+    "ocr_result": [
+      {
+        "text": " ", 
+        "location": [
+          197, 
+          45, 
+          1964, 
+          1291
+        ], 
+        "block_num": 0
+      }
+    ], 
+    "shot_id": 9
+  }, 
+  {
+    "start": 270.9707, 
+    "end": 280.6470333333333, 
+    "ocr_result": [
+      {
+        "text": " ", 
+        "location": [
+          197, 
+          45, 
+          1964, 
+          1291
+        ], 
+        "block_num": 0
+      }
+    ], 
+    "shot_id": 10
+  }, 
+  {
+    "start": 280.6470333333333, 
+    "end": 309.67603333333335, 
+    "ocr_result": [
+      {
+        "text": "[TITLE] ", 
+        "location": [
+          0, 
+          0, 
+          2880, 
+          6
+        ], 
+        "block_num": 0
+      }, 
+      {
+        "text": " What are the financial reporting requirements?", 
+        "location": [
+          76, 
+          34, 
+          2450, 
+          104
+        ], 
+        "block_num": 1
+      }, 
+      {
+        "text": " \u00ab The Securities and Exchange Commission (SEC) requires periodic financial statement filings:", 
+        "location": [
+          129, 
+          161, 
+          2275, 
+          169
+        ], 
+        "block_num": 2
+      }, 
+      {
+        "text": " \u2014 10\u2014K: Annual report", 
+        "location": [
+          196, 
+          325, 
+          661, 
+          73
+        ], 
+        "block_num": 3
+      }, 
+      {
+        "text": " - 10-0: Quarterly report", 
+        "location": [
+          193, 
+          406, 
+          734, 
+          61
+        ], 
+        "block_num": 4
+      }, 
+      {
+        "text": " - &8-K: Current report (material events)", 
+        "location": [
+          176, 
+          481, 
+          1135, 
+          62
+        ], 
+        "block_num": 5
+      }, 
+      {
+        "text": " - Must be prepared in accordance with Generally Accepted Accounting Principles (GAAP)", 
+        "location": [
+          121, 
+          553, 
+          2335, 
+          134
+        ], 
+        "block_num": 6
+      }, 
+      {
+        "text": " . Periodic filing requirements create much of the \u201ctension\u201d in financial", 
+        "location": [
+          125, 
+          681, 
+          2353, 
+          90
+        ], 
+        "block_num": 7
+      }, 
+      {
+        "text": " accounting", 
+        "location": [
+          203, 
+          760, 
+          396, 
+          79
+        ], 
+        "block_num": 8
+      }, 
+      {
+        "text": " \u2014 Ship goods to a customer in one quarter, collect cash in the next \u00bb When did the sale occur?", 
+        "location": [
+          139, 
+          843, 
+          1904, 
+          140
+        ], 
+        "block_num": 9
+      }, 
+      {
+        "text": " \u2014 Buy equipment in one quarter, use it for the next 23 quarters * When does the expense occur?", 
+        "location": [
+          150, 
+          987, 
+          1771, 
+          151
+        ], 
+        "block_num": 10
+      }
+    ], 
+    "shot_id": 11
+  }, 
+  {
+    "start": 309.67603333333335, 
+    "end": 319.3523666666667, 
+    "ocr_result": [
+      {
+        "text": "[TITLE] ", 
+        "location": [
+          0, 
+          0, 
+          2880, 
+          6
+        ], 
+        "block_num": 0
+      }, 
+      {
+        "text": " What are the financial reporting requirements?", 
+        "location": [
+          76, 
+          34, 
+          2450, 
+          104
+        ], 
+        "block_num": 1
+      }, 
+      {
+        "text": " \u00ab The Securities and Exchange Commission (SEC) requires periodic financial statement filings:", 
+        "location": [
+          129, 
+          161, 
+          2275, 
+          169
+        ], 
+        "block_num": 2
+      }, 
+      {
+        "text": " \u2014 10\u2014K: Annual report", 
+        "location": [
+          196, 
+          325, 
+          661, 
+          73
+        ], 
+        "block_num": 3
+      }, 
+      {
+        "text": " - 10-0: Quarterly report", 
+        "location": [
+          193, 
+          406, 
+          734, 
+          61
+        ], 
+        "block_num": 4
+      }, 
+      {
+        "text": " - &8-K: Current report (material events)", 
+        "location": [
+          176, 
+          481, 
+          1135, 
+          62
+        ], 
+        "block_num": 5
+      }, 
+      {
+        "text": " \u2014- Must be prepared in accordance with Generally Accepted Accounting Principles (GAAP)", 
+        "location": [
+          121, 
+          553, 
+          2335, 
+          134
+        ], 
+        "block_num": 6
+      }, 
+      {
+        "text": " . Periodic filing requirements create much of the \u201ctension\u201d in financial", 
+        "location": [
+          125, 
+          681, 
+          2353, 
+          90
+        ], 
+        "block_num": 7
+      }, 
+      {
+        "text": " accounting", 
+        "location": [
+          203, 
+          760, 
+          396, 
+          79
+        ], 
+        "block_num": 8
+      }, 
+      {
+        "text": " \u2014 Ship goods to a customer in one quarter, collect cash in the next \u00bb When did the sale occur?", 
+        "location": [
+          139, 
+          843, 
+          1904, 
+          140
+        ], 
+        "block_num": 9
+      }, 
+      {
+        "text": " \u2014 Buy equipment in one quarter, use it for the next 23 quarters * When does the expense occur?", 
+        "location": [
+          150, 
+          987, 
+          1771, 
+          151
+        ], 
+        "block_num": 10
+      }
+    ], 
+    "shot_id": 12
+  }, 
+  {
+    "start": 319.3523666666667, 
+    "end": 0.0, 
+    "ocr_result": [
+      {
+        "text": " Who makes the rules? + Generally Accepted Accounting Principles (GAAP) established by: = USS. Congress, but they delegate to: ~The SEC, but they delegate to: ~ Financial Accounting Standards Board (FASB) + Emerging Issues Task Force (ITF) + American Institut of CPA's (AICPA) + International Financial Reporting Standards (IFRS) are established by the IASB and are required in over 100 countries = US GAAP is still required for US firms.", 
+        "location": [
+          0, 
+          0, 
+          576, 
+          200
+        ], 
+        "block_num": 0
+      }
+    ], 
+    "shot_id": 13
+  }
+]
